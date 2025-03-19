@@ -1,18 +1,18 @@
 # Sobre Mim / About Me
 
-Olá! Sou um profissional com 11 anos de experiência na indústria automotiva, atuando principalmente como técnico em mecânica e, mais recentemente, como mecânico de manutenção de máquinas e equipamentos. Atualmente, estou cursando Engenharia da Computação pela UNIVESP, onde estou no 3º ano de uma jornada de 5 anos.
+Olá! Sou um profissional com 12 anos de experiência na indústria automotiva, atuando principalmente como técnico em mecânica e, mais recentemente, como mecânico de manutenção de máquinas e equipamentos. Atualmente, estou cursando Engenharia da Computação pela UNIVESP, onde estou no 4º ano de uma jornada de 5 anos.
 
-Hello! I'm a professional with 11 years of experience in the automotive industry, primarily working as a mechanical technician, and more recently as a maintenance mechanic for machines and equipment. I'm currently studying Computer Engineering at UNIVESP, where I'm in the 3rd year of a 5-year journey.
+Hello! I'm a professional with 12 years of experience in the automotive industry, primarily working as a mechanical technician, and more recently as a maintenance mechanic for machines and equipment. I'm currently studying Computer Engineering at UNIVESP, where I'm in the 4rd year of a 5-year journey.
 
 ## Formação e Experiência / Education and Experience
 
 - **Técnico em Mecânica / Mechanical Technician**
-  - 11 anos de experiência em uma montadora de carros / 11 years of experience in an automotive company
+  - 12 anos de experiência em uma montadora de carros / 12 years of experience in an automotive company
   - Especialização nos últimos dois anos em manutenção de máquinas e equipamentos / Specialized in maintenance of machines and equipment for the last two years
 
 - **Estudante de Engenharia da Computação / Computer Engineering Student**
   - Universidade: UNIVESP / University: UNIVESP
-  - Status: 3º ano de 5 / Status: 3rd year of 5
+  - Status: 4º ano de 5 / Status: 4rd year of 5
 
 ## Cursos e Certificações / Courses and Certifications
 
